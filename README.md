@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yichen Li! 
+- 👋 Hi, I’m Yichen (Ethan) Li! 
 - 👀 In my Github, you can find various projects that I have worked on throughout my academic and professional lives.
 - 🌱 I’m currently a research associate working at the University of South Carolina.
 - 💞️ I’m looking forward to any contribution you would like to make!
